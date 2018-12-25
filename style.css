@@ -1,0 +1,42 @@
+*{
+    margin:0px;
+    padding:0px;
+    margin:auto;
+    
+  }
+  h1{
+    text-align:center;
+    margin-top:10px;
+  }
+  .container{
+    display: block !important;
+    
+    padding:0px;
+    width:300px;
+    height:300px;
+    margin-top:20%;
+    
+    
+    
+  }
+  ::-webkit-input-placeholder {
+     text-align: center;
+  }
+#userInput{
+    width:250px;
+    height:27px;
+    margin-left:20px;
+    margin-top:30px;
+    
+  }
+  #submit_button{
+    width: 70px;
+    height:22px;
+    margin-top: 50px;
+    margin-left:110px;
+  }
+  .player{
+    width:200px;
+    padding-left:106px;
+    margin-top:50px;
+  } 
